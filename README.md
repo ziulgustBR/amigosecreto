@@ -77,4 +77,4 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou
 
 Para dúvidas ou sugestões, entre em contato:
 
-Email: contato@seudominio.com
+Email: ziul.gust@gmail.com
