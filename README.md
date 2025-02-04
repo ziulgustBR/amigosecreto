@@ -19,7 +19,7 @@ Exibição clara do resultado do sorteio na interface
 
 Clone este repositório em sua máquina:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/ziulgustBR/amigosecreto
 
 Abra o arquivo index.html diretamente no navegador.
 
